@@ -1,4 +1,6 @@
-# 🛡️ Safeguard Your Sensitive Data
+# 🛡️ iOS Data Protection Framework
+
+Introducing a powerful data obfuscation framework designed specifically for iOS development. This framework provides enterprise-grade protection for your sensitive data using AES-256 encryption with CBC mode and HMAC integrity verification.
 
 ## 🚀 Features
 
